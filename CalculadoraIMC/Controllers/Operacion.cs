@@ -7,6 +7,15 @@ using System.Threading.Tasks;
 
 namespace CalculadoraIMC.Controllers
 {
+    /*Nombre de la escuela: Universidad Tecnologica Metropolitana
+    Asignatura: Aplicaciones Web Orientadas a Objetos
+    Nombre del Maestro: Chuc Uc Joel Ivan
+    Nombre de la actividad: Actividad 1, Ejercicio 2: Palíndromos
+    Nombre del alumno: Sulub Flores Javier Alexander
+    Cuatrimestre: 4
+    Grupo: B
+    Parcial: 1
+    */
     [Route("api/[controller]")]
     [ApiController]
     public class Operacion : ControllerBase
