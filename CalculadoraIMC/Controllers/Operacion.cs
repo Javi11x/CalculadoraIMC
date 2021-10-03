@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace CalculadoraIMC.Controllers
 {
     /*Nombre de la escuela: Universidad Tecnologica Metropolitana
-    Asignatura: Aplicaciones Web Orientadas a Objetos
+    Asignatura: Aplicaciones Web Orientadas a Servicios
     Nombre del Maestro: Chuc Uc Joel Ivan
     Nombre de la actividad: Actividad 1, Ejercicio 2: Palíndromos
     Nombre del alumno: Sulub Flores Javier Alexander
